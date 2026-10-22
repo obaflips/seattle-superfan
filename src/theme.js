@@ -5,6 +5,9 @@ export { STADIUM_DATA } from './stadiums'
 
 export const FONT_DISPLAY = "'Bebas Neue', 'Oswald', sans-serif"
 export const FONT_BODY = "system-ui, Helvetica, Arial, sans-serif"
+// Art Deco accent face -- see DESIGN.md. Small labels/tags only; FONT_DISPLAY
+// stays the face for big bold numerals and headlines.
+export const FONT_DECO = "'Poiret One', cursive"
 
 export const RADIUS = {
   sm: '8px',

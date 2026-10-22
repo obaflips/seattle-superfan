@@ -1,9 +1,5 @@
 # Seattle Superfan
 
-## Credits
-
-3D character models from Kenney's [Mini Characters](https://kenney.nl/assets/mini-characters) pack (CC0).
-
 ---
 
 # React + Vite
